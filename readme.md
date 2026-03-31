@@ -1,6 +1,7 @@
 # Matthieu Brossard
 
 Software engineer, studied at EPITA, specialized health informatics.
+I also like to solve leetcode problems sometimes, [here's my profil](https://leetcode.com/u/r4catak).
 
 ## Languages
 
